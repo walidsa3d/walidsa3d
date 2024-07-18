@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Walid
 #### I am a senior Devops engineer
-![I am a senior Devops engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+I am a senior Devops engineer
 
 I'm a great person.
 
