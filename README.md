@@ -1,10 +1,8 @@
 ### Hi there 👋, my name is Walid
 #### I am a senior Devops engineer
-I am a senior Devops engineer
 
-I'm a great person.
 
-Skills: Python/Postgres/Cassandra
+Skills: Python/Postgres/Cassandra/Ansible/Terraform/Docker
 
 - 🔭 I’m currently working on Freelancer 
 - 🌱 I’m currently learning Gitops 
