@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Walid
+### Hi there 👋, my name is Walid Saad
 #### I am a senior Devops engineer
 - 📫 How to reach me: walid.sa3d@gmail.com 
 - 🔭 I’m currently working on Freelancer 
@@ -19,6 +19,7 @@
   - Grafana
   - Web Crawling
 
+[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=2446067)](https://github.com/harish-sethuraman/readme-components)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/walidsa3d)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/2446067/walid-saad))  
