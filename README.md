@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Walid Saad
 #### I am a senior Devops engineer
 - 📫 How to reach me: walid.sa3d@gmail.com 
-- 🔭 I’m currently working on Freelancer 
+- 🔭 I’m currently working as a Freelancer 
 - 🌱 I’m currently learning Gitops
 ## Skills: 
   - Python
